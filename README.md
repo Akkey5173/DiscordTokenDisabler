@@ -4,7 +4,7 @@
 
 # How to Use
 - このレポジトリをダウンロードする
-- ライブラリをダウンロードする(`pip install requests`)
+- ライブラリをダウンロードする(`pip install -r requirements.txt`)
 - `users.txt`にユーザー名を最低3つ入れる(例: `test#1111`)
 - main.pyを起動する(`py main.py`)
 - 画面の指示に従い使用する
